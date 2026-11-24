@@ -17,6 +17,7 @@ real-world case for every task. The written report is in `docs/`.
 | 7 | James Mwanzia | BSCCS/2024/74071 |
 | 8 | Rooney Mugacha | BSCCS/2024/60056 |
 | 9 | Brian Kiptui | BSCCS/2024/53968 |
+| 10 | Joshua Muli | BSCCS/2024/73427 |
 
 ## Folder structure
 
